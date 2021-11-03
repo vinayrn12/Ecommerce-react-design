@@ -1,4 +1,4 @@
-#Includes just the design part for all the pages.
+# Includes just the design part for all the pages.
 
 # Getting Started with Create React App
 
